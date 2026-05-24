@@ -1,4 +1,5 @@
-WEBSITE LINK: studentattendancesy.netlify.app
+WEBSITE LINK: https://studentattendancesy.netlify.app/
+
 # Student Attendance System
 
 This is a basic web-based student attendance system developed using HTML, CSS, and JavaScript. The application allows users to add student names and mark their attendance as present or absent.
